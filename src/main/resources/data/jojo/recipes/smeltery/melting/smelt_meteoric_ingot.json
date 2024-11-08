@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "jojo:meteoric_ingot"
+  },
+  "result": {
+    "fluid": "jojo:molten_stand_arrow",
+    "amount": 144
+  },
+  "temperature": 500,
+  "time": 25
+}

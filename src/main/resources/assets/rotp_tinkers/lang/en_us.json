@@ -1,0 +1,23 @@
+{
+  "modifier.jojo.stand_arrow": "Stand Arrow",
+  "modifier.jojo.meteor": "Meteor",
+
+  "modifier.jojo.stand_arrow.flavor": "Do you believe in gravity?",
+  "modifier.jojo.meteor.flavor": "From Greenland",
+
+  "modifier.jojo.stand_arrow.description": "Cutting with the tool grants a Stand",
+  "modifier.jojo.meteor.description": "Not refined, it gives virus to the victim",
+
+  "material.jojo.stand_arrow": "Stand Arrow Alloy",
+  "material.jojo.meteor": "Stand Meteor",
+
+  "item.jojo.molten_stand_arrow_bucket": "Molten Stand Arrow Alloy Bucket",
+  "item.jojo.molten_meteor_bucket": "Molten Meteor Bucket",
+
+  "fluid.jojo.molten_stand_arrow": "Molten Stand Arrow Alloy",
+  "fluid.jojo.molten_meteor": "Molten Meteor"
+
+
+
+
+}

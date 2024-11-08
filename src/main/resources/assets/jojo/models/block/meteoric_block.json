@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "rotp_tinkers:block/stand_arrow_block"
+  }
+}
